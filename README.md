@@ -41,7 +41,7 @@ Awesome3DGS中的 7篇 综述论文
 - 链接：https://arxiv.org/abs/2502.09563
 
 [2] VastGaussian: Vast 3D Gaussians for Large Scene Reconstruction
-- 链接：https://openaccess.thecvf.com/content/CVPR2024/html/Lin_VastGaussian_Vast_3D_Gaussians_for_Large_Scene_Reconstruction_CVPR_2024_paper.html
+- 链接：https://arxiv.org/abs/2402.17427
 
 [3] Periodic Vibration Gaussian: Dynamic Urban Scene Reconstruction and Real-time Rendering
 - 链接：https://arxiv.org/abs/2311.18561
@@ -94,17 +94,17 @@ Awesome3DGS中的 7篇 综述论文
 - 链接：https://arxiv.org/abs/2410.18979
 
 [3] SuGaR: Surface-Aligned Gaussian Splatting for Efficient 3D Mesh Reconstruction and High-Quality Mesh Rendering
-- 链接：https://openaccess.thecvf.com/content/CVPR2024/html/Guedon_SuGaR_Surface-Aligned_Gaussian_Splatting_for_Efficient_3D_Mesh_Reconstruction_and_CVPR_2024_paper.html
+- 链接：https://arxiv.org/abs/2311.12775
 
 ### 动态场景重建
 [1] DrivingGaussian: Composite Gaussian Splatting for Surrounding Dynamic Autonomous Driving Scenes
-- 链接：https://openaccess.thecvf.com/content/CVPR2024/html/Zhou_DrivingGaussian_Composite_Gaussian_Splatting_for_Surrounding_Dynamic_Autonomous_Driving_Scenes_CVPR_2024_paper.html
+- 链接：https://arxiv.org/abs/2312.07920
 
 [2] Deformable 3D Gaussians for High-Fidelity Monocular Dynamic Scene Reconstruction
-- 链接：https://openaccess.thecvf.com/content/CVPR2024/html/Yang_Deformable_3D_Gaussians_for_High-Fidelity_Monocular_Dynamic_Scene_Reconstruction_CVPR_2024_paper.html
+- 链接：https://arxiv.org/abs/2309.13101
 
 [3] Gaussian-Flow: 4D Reconstruction with Dynamic 3D Gaussian Particle
-- 链接：https://openaccess.thecvf.com/content/CVPR2024/html/Lin_Gaussian-Flow_4D_Reconstruction_with_Dynamic_3D_Gaussian_Particle_CVPR_2024_paper.html
+- 链接：https://arxiv.org/abs/2312.03431
 
 [4] 3D Points Splatting for real-time dynamic Hand Reconstruction
 - 链接：https://arxiv.org/abs/2312.13770
